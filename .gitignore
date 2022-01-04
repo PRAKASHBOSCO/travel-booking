@@ -1,0 +1,13 @@
+.env
+.env.example
+.editorconfig
+.styleci.yml
+.idea/
+database/.gitignore
+vendor/*
+public/storage/
+composer.lock
+public/css/dashboard.css
+public/html/assets/css/
+public/css/dashboard.map
+node_modules/
